@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Quewo
 - 👀 I’m interested in AI, Game Development, Websites and servers
 - 🌱 I’m currently learning Python, JS, C
-- 💞️ I’m looking to collaborate on Basic Projects in the languages im learning to gain experience
+- 💞️ I’m looking to collaborate on Basic Projects in the languages im learning, to gain experience
 - 📫 How to reach me, Email: fpm.jacob@gmail.com
 
 <!---
